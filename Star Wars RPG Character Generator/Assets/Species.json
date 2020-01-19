@@ -1,0 +1,22 @@
+{
+    "species": "Wookiee",
+    "characteristics": {
+        "brawn": "3",
+        "agility": "2",
+        "intelligence": "2",
+        "cunning": "2",
+        "wisdom": "1",
+        "presence": "2"
+    },
+    "startingXP": "95",
+    "skills": {
+
+    },
+    "skillChoice": {
+
+    },
+    "talents": {
+
+    }
+        
+}
