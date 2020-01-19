@@ -8,5 +8,9 @@ namespace Assets
 {
     interface CharacteristicsManager
     {
+        void IncreaseAttribute(string attribute);
+        void DecreaseAttribute(string attribute);
+        void IncreaseSkill(string skill);
+        void DecreaseSkill(string skill);
     }
 }
